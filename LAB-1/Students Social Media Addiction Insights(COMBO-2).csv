@@ -1,0 +1,24 @@
+Gender,Most_Used_Platform,Sum of Addicted_Score,Sum of Mental_Health_Score
+Female,Facebook,135,158
+,Instagram,1118,1065
+,KakaoTalk,72,72
+,LINE,36,96
+,LinkedIn,32,64
+,Snapchat,60,45
+,TikTok,647,488
+,Twitter,88,109
+,WeChat,28,24
+,WhatsApp,84,59
+Female Total,,2300,2180
+Male,Facebook,562,668
+,Instagram,514,460
+,LinkedIn,48,104
+,Snapchat,37,27
+,TikTok,497,392
+,Twitter,77,96
+,VKontakte,60,84
+,WeChat,63,73
+,WhatsApp,319,240
+,YouTube,61,66
+Male Total,,2238,2210
+Grand Total,,4538,4390
